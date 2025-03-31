@@ -114,3 +114,12 @@ So, in the code, it’s not a full three-body problem—it’s more like a hiera
 
 In reality, the Moon’s waviness around the Sun isn’t just Earth’s motion plus a circular orbit—it’s a three-body dance. The Sun’s gravity on the Moon (about twice Earth’s pull at that distance) stretches its orbit, causing deviations a pure two-body model misses. My animation captures the essence—waves, not a circle—but the `Sun fixed` and `Moon frequency = 13` constraints make it a stylized two-body view, not the chaotic richness of three.
 
+---
+
+### Youtube
+
+[Watch the Youtube video here](https://youtu.be/bW1wrIRyt8Q)
+
+[![YouTube Video Thumbnail](https://img.youtube.com/vi/bW1wrIRyt8Q/0.jpg)](https://www.youtube.com/watch?v=bW1wrIRyt8Q)
+
+
